@@ -6,7 +6,8 @@
 Welcome to my Github profile!
 
 About Me
-- 🔭 I’m currently working on a End to End Machine Learning Projects
+- 🔭 I’m currently working on End to End Machine Learning Projects
+     - from gathering data to deployement 
 - 🌱 I’m currently learning Docker and Kubernetes
 - 💬 Ask me about machine learning
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ayushrahangdale/)
