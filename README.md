@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### I'm an AI engineer, crafting the future one line of code at a time. From building intelligent systems to solving complex problems, I'm passionate about harnessing the power of AI. Let's connect and explore the exciting world of artificial intelligence together! ✨👨‍💻
+#### I'm an AI engineer, crafting the future one line of code at a time. From building intelligent systems to solving complex problems. Let's connect and explore the exciting world of artificial intelligence together! ✨👨‍💻
 
 .
 .
