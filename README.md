@@ -3,11 +3,11 @@
 About me:
 - AI Research Scientist at InSilicoMinds, architecting ML/DL systems for pharmaceutical/life science research and development.
 - Involved in AI research working to develop deep learning (statistical) models with predictive modeling for accelerated *in silico* drug development pipelines and scientific analysis.
-- Background in Computational Biology, focused on Machine Learning and Deep Learning, having studied in Dr. D. Y. Patil ACS College, Pune
+- Background in Computational Biology, focused on Machine Learning and Deep Learning, having studied at Dr. D. Y. Patil ACS College, Pune
 
 ---
 
-Relevant Projects:
+Relevant projects:
 
 | Name | Topic  | Methods | Report | Code |
 |:--------------|:---------------:|:---------------:|:---------------:|:--------------:|
