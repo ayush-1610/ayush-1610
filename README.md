@@ -1,9 +1,9 @@
 ### Hi, this is Ayush Rahangdale  
 ---
 About me:
-- AI Research Scientist at InSilicoMinds, architecting ML/DL systems for pharmaceutical/life science research and development.
-- Involved in AI research working to develop deep learning (statistical) models with predictive modeling for accelerated *in silico* drug development pipelines and scientific analysis.
-- Background in Computational Biology, focused on Machine Learning and Deep Learning, having studied at Dr. D. Y. Patil ACS College, Pune
+- AI Research Scientist at InSilicoMinds, architecting ML/DL systems for research and development, with applications in areas such as pharma and life sciences.
+- Engaged in AI research, developing deep learning and statistical models for predictive analytics, contributing to in silico drug development workflows and broader scientific research.
+- Academic background in Computational Biology with a strong focus on Machine Learning and Deep Learning, studied at Dr. D. Y. Patil ACS College, Pune.
 
 ---
 
