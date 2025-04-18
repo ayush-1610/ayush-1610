@@ -5,13 +5,12 @@ About me:
 - Engaged in AI research, developing deep learning and statistical models for predictive analytics, contributing to in silico drug development workflows and broader scientific research.
 - Academic background in Computational Biology with a strong focus on Machine Learning and Deep Learning, studied at Dr. D. Y. Patil ACS College, Pune.
 
----
 
-Relevant projects:
+**Relevant projects:**
 
-| Name | Topic  | Methods | Report | Code |
+| Name | Topic | Methods | Report | Code |
 |:--------------|:---------------:|:---------------:|:---------------:|:--------------:|
 | AI Agent Orchestration Framework & Kubernetes | AI/Data Analytics | Python, CI/CD (GitHub Actions), Docker, Kubernetes, LLM (Mistral-7B) | - | [GitHub Repo](https://github.com/ayush-1610/mximoph-knowledge-ai) |
 | MiniGrad: Autograd Engine | Deep Learning | Python, NumPy, Custom Autograd, MNIST Validation | - | [GitHub Repo](https://github.com/ayush-1610/micrograd) |
-| GPT-2 Model Replication | Natural Language Processing | PyTorch, GPT-2, FP16, Gradient Checkpointing | - | [GitHub Repo](https://github.com/ayush-1610/gpt-2_model_replication) |
-| - | - | - | - | - |
+| TextForge: Annotated Transformer Replication | Deep Learning / NLP | PyTorch, Transformer Architecture, Multi-Head Attention, Positional Encoding, Multi-Layer Perceptron (MLP) | - | [GitHub Repo](https://github.com/ayush-1610/annotated-transformer-replication) |
+| GPT-2 Model Replication | NLP / Transformers | PyTorch, GPT-2 Architecture, FP16, Gradient Checkpointing | - | [GitHub Repo](https://github.com/ayush-1610/gpt-2_model_replication) |
